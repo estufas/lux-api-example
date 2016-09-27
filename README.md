@@ -1,14 +1,14 @@
-# apiTester
+# Lux API Example
 
 ## Installation
 
-* `git clone https://github.com/<this-repository>`
-* `cd apiTester`
-* `npm install`
+1. Clone the repo: `git clone https://github.com/<this-repository>`
+2. Switch dirs: `cd luz-api-example`
+3. Install deps: `npm install`
 
 ## Running / Development
 
-* `lux serve`
+* `lux s`
 
 ## Testing
 
